@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jarammm
-- 👀 I’m interested in DL, RL
+- 👀 I’m interested in ML, RL
 - 🌱 I’m currently learning Unsupervised Learning
 
 <!---
