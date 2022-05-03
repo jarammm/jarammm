@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @jarammm
-- 👀 I’m interested in ML, RL, NLP
-- 🌱 I’m currently learning Unsupervised Learning
+- 👋 Hi, I’m seola!
 
 <!---
 jarammm/jarammm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
