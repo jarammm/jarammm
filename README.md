@@ -19,7 +19,6 @@
 <h3 align="center">✨Contact Me✨<h3/>
 <p align="center">
   <a href="mailto:jaramrammm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://morethanbig.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-9999FF?style=flat-square&logo=TechBlog&logoColor=white"/></a>
   <br/>
   <br/>
   <br/>
